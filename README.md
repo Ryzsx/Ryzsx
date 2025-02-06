@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7AWynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s160/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Riz</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
 <img align="center" alt="Coding" width="1000" src="https://images.app.goo.gl/663bZkar8g7Y1xWg8">
