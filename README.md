@@ -1,4 +1,26 @@
-![Matrix Rain](https://raw.githubusercontent.com/your-username/your-repo/main/matrixrain.gif)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full-Screen Matrix Rain</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        body {
+            background: url('https://andrewhungblog.files.wordpress.com/2018/08/matrixrain.gif') no-repeat center center;
+            background-size: cover;
+            height: 100vh;
+            width: 100vw;
+        }
+    </style>
+</head>
+<body>
+</body>
+</html>
 <h1 align="center">Hi 👋, I'm Riz</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
 
