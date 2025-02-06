@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif" width="1000" height="300"/>
 </div>
-<h1 align="center">Hi 👋, I'm Riz</h1>
+<h1 align="center">Hi 👋, I'm Riz Rosas</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **Personal Portfolio**
