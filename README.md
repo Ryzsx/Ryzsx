@@ -1,4 +1,4 @@
-![<img align="center" alt="Coding" width="1000" src=["https://images.app.goo.gl/663bZkar8g7Y1xWg8"](https://images.app.goo.gl/8PAF5qJ7KWEhE8wy6)>](animation.gif)
+![https://images.app.goo.gl/8PAF5qJ7KWEhE8wy6](animation.gif)
 <h1 align="center">Hi 👋, I'm Riz</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
 
