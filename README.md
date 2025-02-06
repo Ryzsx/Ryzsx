@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Riz Rosas</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on [My Personal Portfolio](https://github.com/Ryzsx/My-Personal-Portfolio.git)
 
 - 🌱 I’m currently learning **HTML,JS,CSS,C++,TAILWIND,VUE**
 
