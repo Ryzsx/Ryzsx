@@ -1,4 +1,4 @@
-![https://images.app.goo.gl/8PAF5qJ7KWEhE8wy6](animation.gif)
+![Coding](https://images.app.goo.gl/8PAF5qJ7KWEhE8wy6)
 <h1 align="center">Hi 👋, I'm Riz</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
 
