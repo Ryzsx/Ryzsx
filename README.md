@@ -1,4 +1,4 @@
-![Coding](https://images.app.goo.gl/8PAF5qJ7KWEhE8wy6)
+![Matrix Rain](https://raw.githubusercontent.com/your-username/your-repo/main/matrixrain.gif)
 <h1 align="center">Hi 👋, I'm Riz</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
 
