@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/52ad9e6d-7690-460f-8c5e-f8ab75cd0523)
+<img align="center" width="1000" src=["https://images.app.goo.gl/663bZkar8g7Y1xWg8"](https://images.app.goo.gl/8PAF5qJ7KWEhE8wy6)>
 <h1 align="center">Hi 👋, I'm Riz</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
-<img align="center" alt="Coding" width="1000" src="https://images.app.goo.gl/663bZkar8g7Y1xWg8">
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
