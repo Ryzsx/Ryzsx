@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riz</h1>
 <h3 align="center">A passionate web developer from the Philippines</h3>
-<img align="center" alt="Coding" width="200" src="https://andrewhungblog.wordpress.com/2018/08/29/procedural-graphics-series-3d-matrix-rain/">
+<img align="center" alt="Coding" width="200" src="https://images.app.goo.gl/663bZkar8g7Y1xWg8">
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
